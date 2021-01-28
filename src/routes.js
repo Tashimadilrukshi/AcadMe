@@ -1,4 +1,4 @@
-import DefaultLayout from "./layouts/defaultLayout";
+import DefaultLayout from "./layouts/defaultLayout/defaultLayout";
 
 // views
 import modules from "./modules";

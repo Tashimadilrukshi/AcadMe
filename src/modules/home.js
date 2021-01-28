@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import HomeCarousel from "../components/HomeCarousel";
+import HomeCarousel from "../components/home/HomeCarousel";
 
 export class Home extends Component {
   static propTypes = {};

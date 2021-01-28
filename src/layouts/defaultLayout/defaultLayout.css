@@ -1,0 +1,7 @@
+.background {
+    background-color: #f5e8f7;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-size: calc(10px + 2vmin);
+  }
