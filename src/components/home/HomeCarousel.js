@@ -35,7 +35,7 @@ class HomeCarousel extends Component {
             },
             {
               backgroundColor: '#4a9c8c',
-              media: 'https://storage-prtl-co.imgix.net/mp/6d43e06f.jpg?max-w=660&max-h=532&fit=crop&auto=format,compress&q=40',
+              media: 'https://blog.aifsabroad.com/wp-content/uploads/2020/05/AdobeStock_254424115-scaled.jpeg',
               caption: "The answer is -- Don't think about it....",
             },
             {
@@ -45,7 +45,7 @@ class HomeCarousel extends Component {
             },
             {
               backgroundColor: '#4a9c8c',
-              media: "https://storage-prtl-co.imgix.net/endor/articles/406/images/1537198554_shutterstock_431109490.jpg?max-w=660&max-h=532&fit=crop&auto=format,compress&q=40",
+              media: "https://4.bp.blogspot.com/-ReIrtyMNBVY/VFuZo4aziGI/AAAAAAAAEwk/vrSJ-6SfoSQ/s1600/Writing.jpg",
               caption: "Everything will be up to date with your academics.....",
             },
           ]}
