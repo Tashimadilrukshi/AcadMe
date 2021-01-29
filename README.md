@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# AcadMe
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Before running copy react-awesome-slider folder into node_modules folder....
 
 ## Available Scripts
 
